@@ -4,3 +4,4 @@ pydantic
 qrcode
 requests
 pillow
+flask
