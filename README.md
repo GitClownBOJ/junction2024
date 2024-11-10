@@ -21,3 +21,5 @@ Sustainable Production Practices: Decreased food waste through optimized process
   - ![Cooking](qrcodes-batches/cooking.png)
 - Batch State ID 8532e62d - Storage: http://127.0.0.1:8000/generate-qr?data=https%3A%2F%2Fjunction2024-kappa.vercel.app%2F%3Fbatch_state_id%3D8532e62d
   - ![Storage](qrcodes-batches/storage.png)
+- Package ID d0286f55 - Packing: http://127.0.0.1:8000/generate-qr?data=https%3A%2F%2Fjunction2024-kappa.vercel.app%2F%3Fpackage_id%3Dd0286f55
+  - ![Packing](qrcodes-batches/packing.png)
