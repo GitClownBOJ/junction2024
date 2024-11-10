@@ -13,3 +13,8 @@ By implementing this monitoring system, HKFoods will achieve:
 Enhanced Quality Control: Real-time insights into batch consistency and quality across the production process.
 Improved Production Efficiency: Reduction in rework and waste, aligning with HKFoods’ sustainability objectives.
 Sustainable Production Practices: Decreased food waste through optimized processes and data-driven decisions.
+
+## Some QR codes for batches
+- Batch State ID 30ebd610 - Preproduction: http://127.0.0.1:8000/generate-qr?data=https%3A%2F%2Fjunction2024-kappa.vercel.app%2F%3Fbatch_state_id%3D30ebd610
+- Batch State ID cacb4d3c - Cooking: http://127.0.0.1:8000/generate-qr?data=https%3A%2F%2Fjunction2024-kappa.vercel.app%2F%3Fbatch_state_id%3Dcacb4d3c
+- - Batch State ID 8532e62d - Storage: http://127.0.0.1:8000/generate-qr?data=https%3A%2F%2Fjunction2024-kappa.vercel.app%2F%3Fbatch_state_id%3D8532e62d
